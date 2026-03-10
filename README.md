@@ -190,10 +190,10 @@ Melalui proyek ini mahasiswa dapat memahami:
 
 # 👨‍💻 Author
 
-Nama : **(Isi Nama Kamu)**  
-Program Studi : **(Isi Prodi Kamu)**  
-Universitas : **(Isi Universitas Kamu)**  
-Mata Kuliah : **Pemrograman Berorientasi Objek**
+Nama : **Moh Farrel Pandhita Pratama**  
+Program Studi : **Teknologi Informasi**  
+Universitas : **Universitas Brawijaya**  
+Mata Kuliah : **Pemrograman Lanjut**
 
 ---
 
